@@ -1,8 +1,7 @@
 def introduce():
     print("Modified!")
 def joke():
-    print("Dupa")
-    print("Cycki")
+    print("Joke joke joke joke joke")
 def add(a, b):
     return a + b
 
